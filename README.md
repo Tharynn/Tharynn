@@ -1,5 +1,20 @@
-### Hi there 👋
+# Basic
 
+👋 Hello
+
+👨 Pronouns: He/Him
+
+👶 I'm currently new at programing
+
+🌱 I'm learning Python
+
+🌎 Brazilian
+
+## Fun Facts
+
+🐵 Reject humanity, go back to monkey (i like monkey)
+
+♎ I hate astrological sign
 <!--
 **Tharynn/Tharynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
